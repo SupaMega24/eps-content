@@ -1,5 +1,7 @@
 # Repository Structure
 
+**ALL TEXT CONTENT IS IN PUBLIC FOLDER** 
+
 This repository is organized into the following main sections:
 
 - Home Page: Overview of EPS
