@@ -1,5 +1,7 @@
 # Repository Structure
 
+**[Live Preview](https://sparras1.cafe24.com/default/index.php)**
+
 This repository is organized into the following main sections:
 
 - **Home Page:** Overview of EPS
